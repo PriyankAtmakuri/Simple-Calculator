@@ -12,7 +12,7 @@ This repository contains a basic calculator application built with HTML, CSS, an
 * HTML
 * CSS
 * JavaScript
-* Docker (optional)
+* Docker 
 
 ## Installation and Usage
 
